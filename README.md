@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## I am still in the process of setting up all of my past projects on Github, so please excuse the appearance...
+
+
 <!--
 **jilinnn/jilinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
