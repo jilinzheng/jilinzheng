@@ -1,6 +1,6 @@
-# Welcome to my GitHub page!
+## Welcome to my GitHub page!
 
-## My name is Jilin Zheng.
+# My name is Jilin Zheng.
 
 I am currently a sophomore Computer Engineering student at Boston University. I am looking for internships and co-ops! My interests lie in Backend Development, Embedded Systems, and AI/ML. Below are some of the projects I have worked on in the past. Have a look!
 
