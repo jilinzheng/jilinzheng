@@ -2,7 +2,7 @@
 
 I am a sophomore Computer Engineering student at Boston University.
 
-I am working as a part-time Researcher in the Laboratory of Networking and Information Systems (NISLAB) @ BU under Professor David Starobinski. My current project is investigating Kubernetes autoscaling in regards to Economic Denial-of-Service (EDoS) attacks.
+I am working as a part-time Researcher in the Laboratory of Networking and Information Systems (NISLAB) @ BU under Professor David Starobinski. My current project is investigating the cluster autoscaling behavior of Kubernetes under adversarial, Economic Denial-of-Service (EDoS) attacks (in particular the Yo-yo attack). Consequently, I have been working with tools such as MicroK8s, Prometheus, Grafana, JMeter, and OpenShift.
 
 I am looking for internships and co-ops for Summer 2024 and beyond! My interests lie in Backend Development, Embedded Systems, Cloud Computing, and AI/ML. If our interests coincide, you can reach me at jilin@bu.edu. Looking forward to chatting with you!
 
