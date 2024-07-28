@@ -1,11 +1,10 @@
 ## Welcome to my GitHub page! My name is Jilin Zheng.
 
-I am a sophomore Computer Engineering student at Boston University.
+I am an undergraduate student at Boston University, studying Computer Engineering. I am interested in Backend Development, Cloud Computing, Embedded Systems, Cybersecurity and low-level/OS-level development in general. 
 
-I am working as a part-time Researcher in the Laboratory of Networking and Information Systems (NISLAB) @ BU under Professor David Starobinski. My current project is investigating the cluster autoscaling behavior of Kubernetes under adversarial, Economic Denial-of-Service (EDoS) attacks (in particular the Yo-yo attack). Consequently, I have been working with tools such as MicroK8s, Prometheus, Grafana, JMeter, and OpenShift.
+The first principles nature of many of those fields, and much of computing/programming in general, absolutely fascinates me. Seeing one big complex system like a computer, broken down bit-by-bit into its most basic components, and realizing that people like you and me worked together to build these masterpieces that have revolutionized our world today, leaves me awestruck time and time again.
 
-Below are some of the projects I have worked on in the past. Have a look!
-
+Before I ramble further, feel free to explore my projects below! If any of it is of interest to you, don't be a stranger, contact me!
 
 <!--
 **jilinnn/jilinnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
