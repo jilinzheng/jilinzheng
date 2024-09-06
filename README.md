@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page! My name is Jilin Zheng.
 
-I am an undergraduate student at Boston University, studying Computer Engineering. I am interested in Backend Development, Cloud Computing, Embedded Systems, Cybersecurity and low-level/OS-level development in general. 
+I am an undergraduate student at Boston University, studying Computer Engineering. I am interested in Embedded Systems, Backend Development, Cloud Computing, and low-level/OS-level development in general. 
 
 The first principles nature of many of those fields, and much of computing/programming in general, absolutely fascinates me. Seeing one big complex system like a computer, broken down bit-by-bit into its most basic components, and realizing that people like you and me worked together to build these masterpieces that have revolutionized our world today, leaves me awestruck time and time again.
 
